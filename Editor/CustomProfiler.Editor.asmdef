@@ -1,0 +1,16 @@
+{
+    "name": "CustomProfiler.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ed31129c1743bc24faf585bf5ac57893"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
