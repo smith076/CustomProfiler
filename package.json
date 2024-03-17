@@ -8,5 +8,11 @@
   "author": {
     "name": "Abhishek Jathan",
     "email": "abhishekjathan321@gmail.com"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Sample1",
+      "description": "Empty scene with a simple gameobject with a test script for testing the markers",
+      "path": "Samples~/Sample"
+    }
 }
